@@ -1,14 +1,1 @@
-[0502/131002.794:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0502/143216.997:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0502/143216.998:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0502/153538.847:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0502/153538.959:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0502/153543.793:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0502/153543.795:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0502/153543.855:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0502/153543.967:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0502/153544.345:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0502/153544.345:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0502/155239.601:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0502/155239.634:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
-[0502/155239.837:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 126 ms
+[0502/160858.536:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
